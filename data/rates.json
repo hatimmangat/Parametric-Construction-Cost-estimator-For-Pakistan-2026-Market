@@ -1,0 +1,119 @@
+{
+  "materials": {
+    "steel": {
+      "Mughal": 275,
+      "Amreli": 285,
+      "Aga Khan": 290
+    },
+    "cement": {
+      "Bestway": 1300,
+      "DG": 1320,
+      "Lucky": 1310,
+      "Maple": 1280
+    },
+    "sand": {
+      "Lawrencepur": 55,
+      "Chenab": 50,
+      "Ravi": 48
+    },
+    "crush": {
+      "Margalla": 70,
+      "Sargodha": 65,
+      "Taxila": 72
+    },
+    "bricks": {
+      "A Class": 15,
+      "B Class": 13,
+      "Machine Block": 18
+    },
+    "wire": {
+      "Fast": 185,
+      "Paklite": 175,
+      "GM": 190
+    },
+    "tiles": {
+      "Master": 350,
+      "Shabbir": 300,
+      "Nitco": 450,
+      "Orient": 400
+    },
+    "paint": {
+      "Brighto": 520,
+      "Dulux": 650,
+      "Berger": 720,
+      "Master": 600,
+      "Nippon": 780
+    },
+    "wood": {
+      "Local": 4500,
+      "Deodar": 9500,
+      "Sheesham": 8000
+    },
+    "sanitary": {
+      "Sonex": 28000,
+      "Porta": 22000,
+      "Master": 35000,
+      "Grohe": 55000
+    },
+    "ceiling": {
+      "Simple POP": 120,
+      "Gypsum": 180,
+      "Designer": 260
+    }
+  },
+  "city_factors": {
+    "Lahore": 1,
+    "Karachi": 1.1,
+    "Islamabad": 1.15,
+    "Rawalpindi": 1.08,
+    "Multan": 0.95,
+    "Faisalabad": 0.97,
+    "Peshawar": 0.96,
+    "Gujranwala": 0.94
+  },
+  "soil_factors": {
+    "Normal": 1,
+    "Soft": 1.08,
+    "Filled": 1.15
+  },
+  "quality": {
+    "Standard": 1,
+    "Premium": 1.18,
+    "Luxury": 1.42
+  },
+  "plots": {
+    "5": {
+      "sqft": 1125,
+      "max_beds": 4,
+      "max_living": 2
+    },
+    "10": {
+      "sqft": 2250,
+      "max_beds": 6,
+      "max_living": 3
+    },
+    "15": {
+      "sqft": 3375,
+      "max_beds": 8,
+      "max_living": 4
+    },
+    "20": {
+      "sqft": 4500,
+      "max_beds": 10,
+      "max_living": 4
+    }
+  },
+  "labour": {
+    "grey": 380,
+    "finish": 480
+  },
+  "contractor": {
+    "grey": 120,
+    "finish": 200
+  },
+  "insulation": {
+    "Basic": 120,
+    "Thermal": 180,
+    "Premium": 250
+  }
+}
