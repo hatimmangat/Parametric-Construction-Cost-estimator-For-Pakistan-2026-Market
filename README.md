@@ -1,4 +1,4 @@
-# Aangan Estimate — Pakistan Construction Cost Calculator
+ Pakistan Construction Cost Calculator
 
 An interactive Flask web application built from the supplied parametric cost-calculator notebook. It estimates residential construction costs in PKR for 5, 10, 15, and 20 marla plots across major Pakistani cities.
 
